@@ -42,7 +42,8 @@
 <br/>
 <h2> CERTIFICATION</h2>
 🏆 Attained certification in mastering the popular framework Vue Js.
-[Verification Link](https://ostad.app/share/certificate/c7500-firoj-ahmed)
+[Verification Link](https://ostad.app/share/certificate/c7500-firoj-ahmed) 
+[VS Code](https://code.visualstudio.com/)
 
 
 <br/>
