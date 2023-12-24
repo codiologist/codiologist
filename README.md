@@ -10,32 +10,32 @@
 <h2>✨ Working Approach</h2>
 <ul>
     <li>
-        ✅ Analyzing and dissecting the project based on its requirements.
+        Analyzing and dissecting the project based on its requirements.
     </li>
     <li>
-        ✅ Choosing frameworks, libraries, tools 🛠, and plugins.
+        Choosing frameworks, libraries, tools 🛠, and plugins.
     </li>
     <li>
-        ✅ Establishing a timeline ⏳ for project completion.
+        Establishing a timeline ⏳ for project completion.
     </li>
     <li>
-        ✅ Conducting testing 🔬 on modules and codes as necessary.
+        Conducting testing 🔬 on modules and codes as necessary.
     </li>
 </ul>
 
 <h2>✨ Specialities</h2>
 <ul>
     <li>
-        ✅ Creating a clean, reusable, and maintainable codebase 👩‍💻, as always.
+        Creating a clean, reusable, and maintainable codebase 👩‍💻, as always.
     </li>
     <li>
-        ✅ Optimizing project performance to achieve the highest possible 📈 GTmetrix grade.
+        Optimizing project performance to achieve the highest possible 📈 GTmetrix grade.
     </li>
     <li>
-        ✅ Prioritizing the use of 🐞 bug-free and 👾 malware-free libraries and plugins.
+        Prioritizing the use of 🐞 bug-free and 👾 malware-free libraries and plugins.
     </li>
     <li>
-        ✅ Ensuring well-commented 📋 code to facilitate collaboration among team members 🤝 without any hesitation.
+        Ensuring well-commented 📋 code to facilitate collaboration among team members 🤝 without any hesitation.
     </li>
 </ul>
 
