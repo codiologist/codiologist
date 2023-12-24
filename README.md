@@ -7,8 +7,7 @@
 </p>
 
 <br/>
-
-<h2>💪SKILLS I HAVE:</h2>
+<h2>💪SKILLS I HAVE</h2>
 <h3>Programming Languages</h3>
 <p>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
@@ -25,4 +24,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
 </p>
 
-<h3>Frontend Style</h3>
+<h3>Framework &amp; Libraries</h3>
+<p>
+    <img src="https://img.shields.io/badge/" alt="Laravel" />
+</p>
