@@ -6,6 +6,22 @@
     </strong>
 </p>
 
+
+✨ Working Approach:
+✅ Analyzing and dissecting the project based on its requirements.
+✅ Choosing frameworks, libraries, tools 🛠, and plugins.
+✅ Establishing a timeline ⏳ for project completion.
+✅ Conducting testing 🔬 on modules and codes as necessary.
+
+
+✨ Specialities:
+✅ Creating a clean, reusable, and maintainable codebase 👩‍💻, as always.
+✅ Optimizing project performance to achieve the highest possible 📈 GTmetrix grade.
+✅ Prioritizing the use of 🐞 bug-free and 👾 malware-free libraries and plugins.
+✅ Ensuring well-commented 📋 code to facilitate collaboration among team members 🤝 without any hesitation.
+
+
+
 <br/>
 <h2>💪SKILLS I HAVE</h2>
 <h3>Programming Languages</h3>
@@ -32,9 +48,10 @@
     <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="" />
     <img src="https://img.shields.io/badge/Bootstrap%20Vue-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="" />
     <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar" />
-    <img src="https://img.shields.io/badge/Primevue-1867C0?style=for-the-badge&logo=primevue&Color=white" alt="Primevue" />
+    <img src="https://img.shields.io/badge/Primevue-10B981?style=for-the-badge&logo=primevue&Color=white" alt="Primevue" />
     <img src="" alt="" />
     <img src="" alt="" />
+    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="vite" />
     <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=#0F172A" alt="" />
     <img src="" alt="" />
     <img src="" alt="" />
@@ -48,7 +65,6 @@
     <img src="" alt="" />
     <img src="" alt="" />
     <img src="" alt="" />
-    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="vite" />
 </p>
 
 <h3>Database</h3>
