@@ -1,4 +1,4 @@
-![Github Banner](https://raw.githubusercontent.com/codiologist/codiologist/main/Firoj-Ahmed-Codiologist.jpg)
+![Github Banner](https://raw.githubusercontent.com/codiologist/codiologist/main/firoj-ahmed-codiologist.jpg)
 
 <p>
     <strong>
