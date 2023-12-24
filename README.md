@@ -21,9 +21,7 @@
 ✅ Ensuring well-commented 📋 code to facilitate collaboration among team members 🤝 without any hesitation.
 
 
-
 <br/>
-<h2>💪SKILLS I HAVE</h2>
 <h3>Programming Languages</h3>
 <p>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
