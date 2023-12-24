@@ -24,18 +24,20 @@
 </ul>
 
 <h2>✨ Specialities</h2>
-<li>
-    ✅ Creating a clean, reusable, and maintainable codebase 👩‍💻, as always.
-</li>
-<li>
-    ✅ Optimizing project performance to achieve the highest possible 📈 GTmetrix grade.
-</li>
-<li>
-    ✅ Prioritizing the use of 🐞 bug-free and 👾 malware-free libraries and plugins.
-</li>
-<li>
-    ✅ Ensuring well-commented 📋 code to facilitate collaboration among team members 🤝 without any hesitation.
-</li>
+<ul>
+    <li>
+        ✅ Creating a clean, reusable, and maintainable codebase 👩‍💻, as always.
+    </li>
+    <li>
+        ✅ Optimizing project performance to achieve the highest possible 📈 GTmetrix grade.
+    </li>
+    <li>
+        ✅ Prioritizing the use of 🐞 bug-free and 👾 malware-free libraries and plugins.
+    </li>
+    <li>
+        ✅ Ensuring well-commented 📋 code to facilitate collaboration among team members 🤝 without any hesitation.
+    </li>
+</ul>
 
 
 
