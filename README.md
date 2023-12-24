@@ -7,12 +7,21 @@
 </p>
 
 
-✨ Working Approach:
-✅ Analyzing and dissecting the project based on its requirements.
-✅ Choosing frameworks, libraries, tools 🛠, and plugins.
-✅ Establishing a timeline ⏳ for project completion.
-✅ Conducting testing 🔬 on modules and codes as necessary.
-
+<h2>✨ Working Approach</h2>
+<ul>
+    <li>
+        ✅ Analyzing and dissecting the project based on its requirements.
+    </li>
+    <li>
+        ✅ Choosing frameworks, libraries, tools 🛠, and plugins.
+    </li>
+    <li>
+        ✅ Establishing a timeline ⏳ for project completion.
+    </li>
+    <li>
+        ✅ Conducting testing 🔬 on modules and codes as necessary.
+    </li>
+</ul>
 
 ✨ Specialities:
 ✅ Creating a clean, reusable, and maintainable codebase 👩‍💻, as always.
@@ -23,7 +32,7 @@
 
 
 <br/>
-<h2>💪</h2>
+<h2>💪 SKILLS I HAVE</h2>
 <h3>Programming Languages</h3>
 <p>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
