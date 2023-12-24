@@ -1,4 +1,4 @@
-![Github Banner](https://raw.githubusercontent.com/codiologist/codiologist/main/firoj-ahmed-codiologist.jpg)](#)
+![Github Banner](https://raw.githubusercontent.com/codiologist/codiologist/main/firoj-ahmed-codiologist.jpg)
 
 <p>
     <strong>
@@ -44,7 +44,6 @@
 
 🏆 Attained certification in mastering the popular framework Vue Js.
 [Verification Link](https://ostad.app/share/certificate/c7500-firoj-ahmed) 
-[VS Code](https://code.visualstudio.com/)
 
 
 <br/>
