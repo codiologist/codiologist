@@ -17,8 +17,8 @@
 
 <h3>Frontend Development</h3>
 <p>
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="VUEJS" />
-    <img src="https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="NUXT" />
+    <img src="https://img.shields.io/badge/Vue.js-090E25?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="VUEJS" />
+    <img src="https://img.shields.io/badge/nuxt%20js-00C16A?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="NUXT" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
@@ -29,8 +29,8 @@
     <img src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="" />
-    <img src="" alt="" />
-    <img src="" alt="" />
+    <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="" />
+    <img src="https://img.shields.io/badge/Bootstrap%20Vue-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="" />
     <img src="" alt="" />
     <img src="" alt="" />
     <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=#0F172A" alt="" />
@@ -46,10 +46,12 @@
     <img src="" alt="" />
     <img src="" alt="" />
     <img src="" alt="" />
-    <img src="" alt="" />
+    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="vite" />
 </p>
 
 <h3>Database</h3>
 <p>
-    <img src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
 </p>
