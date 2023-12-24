@@ -1,4 +1,4 @@
-
+[![MasterHead](https://raw.githubusercontent.com/codiologist/codiologist/main/firoj-ahmed-codiologist.jpg)](#)
 
 ### Hi there 👋
 
