@@ -26,5 +26,5 @@
 
 <h3>Framework &amp; Libraries</h3>
 <p>
-    <img src="https://img.shields.io/badge/" alt="Laravel" />
+    <img src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 </p>
