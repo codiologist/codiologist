@@ -31,6 +31,8 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="" />
     <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="" />
     <img src="https://img.shields.io/badge/Bootstrap%20Vue-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="" />
+    <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar" />
+    <img src="https://img.shields.io/badge/Primevue-1867C0?style=for-the-badge&logo=primevue&Color=white" alt="Primevue" />
     <img src="" alt="" />
     <img src="" alt="" />
     <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=#0F172A" alt="" />
