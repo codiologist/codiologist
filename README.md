@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/codiologist/codiologist/main/firoj-ahmed-codiologist.jpg)](#)
+![Github Banner](https://raw.githubusercontent.com/codiologist/codiologist/main/firoj-ahmed-codiologist.jpg)](#)
 
 <p>
     <strong>
@@ -39,6 +39,10 @@
     </li>
 </ul>
 
+<br/>
+<h2> CERTIFICATION</h2>
+🏆 Attained certification in mastering the popular framework Vue Js.
+[Verification Link](https://ostad.app/share/certificate/c7500-firoj-ahmed)
 
 
 <br/>
@@ -47,7 +51,7 @@
 <p>
     <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="javascript" />
     <img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" alt="typescript" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=white" alt="php" />
 </p>
 
 <h3>Frontend Development</h3>
